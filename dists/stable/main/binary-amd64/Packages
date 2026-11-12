@@ -1,0 +1,44 @@
+Package: benchmesh
+Version: 0.1.32
+Architecture: amd64
+Installed-Size: 40767
+Maintainer: benchmesh
+Priority: optional
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Description: Browser-based cockpit for lab instruments
+ BenchMesh connects, controls, logs and automates serial and USBTMC lab instruments from one interface.
+Filename: pool/main/b/benchmesh/benchmesh_0.1.32_amd64.deb
+Size: 9489476
+MD5Sum: 57d5710f0bb555a23ddfb638f021fc90
+SHA1: ceda0414135a7a37c4676aa96047787f850bae5f
+SHA256: dadf186180655bbb127dac3ca602c913421dd31a51366ff12141a44b9bd0506d
+
+Package: benchmesh
+Version: 0.1.33
+Architecture: amd64
+Installed-Size: 40752
+Maintainer: benchmesh
+Priority: optional
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Description: Browser-based cockpit for lab instruments
+ BenchMesh connects, controls, logs and automates serial and USBTMC lab instruments from one interface.
+Filename: pool/main/b/benchmesh/benchmesh_0.1.33_amd64.deb
+Size: 9476204
+MD5Sum: f360beeb36bf1587dde3ddfbd6bfa61e
+SHA1: ea578540485b2a885e7e191672a288122a696cee
+SHA256: 62f2da5ff72d142615fcaab8c9529f57850960b33f00f8201e910b8ceb03cde9
+
+Package: benchmesh
+Version: 0.1.34
+Architecture: amd64
+Installed-Size: 40706
+Maintainer: benchmesh
+Priority: optional
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Description: Browser-based cockpit for lab instruments
+ BenchMesh connects, controls, logs and automates serial and USBTMC lab instruments from one interface.
+Filename: pool/main/b/benchmesh/benchmesh_0.1.34_amd64.deb
+Size: 9473776
+MD5Sum: 4aaad5e55356316f89fdcdecda6136a0
+SHA1: bebecd835c4d53fe9a56f0cd9b978465366ba680
+SHA256: 93a9fee5f0c1ba73d37ea71f1ad4cce91ad6c94ba04b57ddf4881dcf5371ae96

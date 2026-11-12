@@ -1,0 +1,23 @@
+Origin: BenchMesh
+Label: BenchMesh
+Suite: stable
+Codename: stable
+Date: Thu, 12 Nov 2026 22:48:16 GMT
+Architectures: amd64 arm64
+Components: main
+Description: BenchMesh - one cockpit for lab instruments (https://benchmesh.online)
+MD5Sum:
+ 8744c62a53d235c876d864b5ff4d17bb     1658 main/binary-amd64/Packages
+ b79dcdba42346e11b5f649c9a815640b      634 main/binary-amd64/Packages.gz
+ d68f5cf5b5fc6bd2226940a594c4d575     1658 main/binary-arm64/Packages
+ 783083baae96fee7bcaed53c23fe4246      633 main/binary-arm64/Packages.gz
+SHA1:
+ b99b8185b0abcb0f9bb39e6ab2257a3489d535f9     1658 main/binary-amd64/Packages
+ b23eff1a4d835348bd13d13d2be1d0f93343e2d1      634 main/binary-amd64/Packages.gz
+ 4220e4e036b02e11475930840435958a15c27693     1658 main/binary-arm64/Packages
+ 6179597d4a30ef78900349227ff36ad991e90519      633 main/binary-arm64/Packages.gz
+SHA256:
+ 9eb6218654bb307dc60bfee395ef80e2cee9f7e98492281c5e14a153644628cc     1658 main/binary-amd64/Packages
+ d3351339d979a7334fc5bef2fbf7b565eebc0588985e9875ecc7c0f19981c649      634 main/binary-amd64/Packages.gz
+ 766f42c12113d795b69f2fcf11d6b24a886f63467364e40114297a50bad20eb5     1658 main/binary-arm64/Packages
+ be7df053ed59369e30e143041ca4a2d70e45ff06ed312ddb0d49f6b6995e2be1      633 main/binary-arm64/Packages.gz

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>BenchMesh APT repository</title></head>
+<body style="font-family: sans-serif; max-width: 52rem; margin: 2rem auto; line-height: 1.5">
+<h1>BenchMesh APT repository</h1>
+<p>BenchMesh for Ubuntu 22.04 and later, Debian 12 and later and Raspberry Pi OS (64-bit), amd64 and arm64.
+Installing the package from <a href="https://benchmesh.online/download">benchmesh.online</a> adds this repository too.</p>
+<pre>sudo install -d /usr/share/keyrings
+curl -fsSL https://apt.benchmesh.online/benchmesh-archive-keyring.gpg | sudo tee /usr/share/keyrings/benchmesh-archive-keyring.gpg &gt; /dev/null
+sudo curl -fsSL -o /etc/apt/sources.list.d/benchmesh.sources https://apt.benchmesh.online/benchmesh.sources
+sudo apt update &amp;&amp; sudo apt install benchmesh</pre>
+<p>Versions: 0.1.34, 0.1.33, 0.1.32</p>
+</body></html>
